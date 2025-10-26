@@ -72,8 +72,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
-    margin-bottom: 48px;
-    margin-top: 0;
 }
 
 .button {
@@ -88,10 +86,6 @@ a {
 
 }
 
-.goals-section {
-    margin-top: 144px;
-    margin-bottom: 120px;
-}
 
 .goal-title {
     font-weight: 500;
@@ -99,9 +93,6 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-bottom: 8px;
-    margin-top: 0;
-
 }
 
 .goal-text {
@@ -110,13 +101,10 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin: 0;
 }
 
 .team-section {
     background-color: #f4f4fd;
-    padding-top: 120px;
-    padding-bottom: 120px;
 }
 
 .team-title {
@@ -141,7 +129,6 @@ a {
 .team-member-img {
     width: 264px;
     height: 260px;
-    margin-bottom: 32px;
 }
 
 .team-member-name {
@@ -151,7 +138,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin: 0 0 8px;
 }
 
 .team-member-position {
@@ -161,7 +147,6 @@ a {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    margin: 0;
 }
 
 .ortfolio-title {
@@ -193,7 +178,7 @@ a {
 }
 
 .portfolio-item-text {
-    ont-weight: 400;
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
