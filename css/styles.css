@@ -78,8 +78,6 @@ a {
 .button {
     font-weight: 500;
     border-radius: 4px;
-    width: 169px;
-    height: 56px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4D5AE5;
     border: none;
@@ -92,11 +90,6 @@ a {
 .button:focus,
 .button:hover {
     background-color: #404bbf;
-}
-
-.goal {
-    width: 264px;
-    height: 104px;
 }
 
 .goal-title {
@@ -132,15 +125,8 @@ a {
     border-radius: 0 0 4px 4px;
     padding-block: 0px 32px;
     padding-inline: 0px;
-    width: 264px;
-    height: 380px;
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background-color: #fff;
-}
-
-.team-member-img {
-    width: 264px;
-    height: 260px;
 }
 
 .team-member-name {
@@ -152,7 +138,7 @@ a {
     color: #2e2f42;
 }
 
-.team-member-position {
+.team-member-status {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -171,8 +157,6 @@ a {
 }
 
 .portfolio-item {
-    width: 360px;
-    height: 420px;
     background-color: #fff;
 }
 
