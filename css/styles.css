@@ -60,9 +60,6 @@ a {
 .hero-section {
     background-color: #2e2f42;
     text-align: center;
-    padding-top: 188px;
-    padding-bottom: 164px;
-
 }
 
 .hero-title {
@@ -83,6 +80,8 @@ a {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     border: none;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color: #fff;
 
 }
