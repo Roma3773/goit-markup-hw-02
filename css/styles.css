@@ -90,6 +90,11 @@ a {
     background-color: #404bbf;
 }
 
+.goal {
+    width: 264px;
+    height: 104px;
+}
+
 .goal-title {
     font-weight: 500;
     font-size: 20px;
